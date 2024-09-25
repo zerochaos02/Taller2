@@ -15,9 +15,11 @@ Errores del codigo:
 -La opcion 1 tenia uso repetido de Scanner, el catch de InputMismatchException no limpiaba el buffer de Scanner, se cambio para que limpie el buffer.
 -La opcion 1 no existia validaciones para el nombre, estadoCivil y edad, se agregaron. 
 -La opcion 1 tiene el uso de continue en los bucles while(true) lo cual puede ser simplificado para entender mas facil el codigo.
+-La opcion 3 usaba una variable llamada "mmmm", se cambio de nombre para que se entienda mejor.
 -Las otras 4 opciones no tenian problemas como opción 1 pero se convirtieron en funciones para que el codigo sea mas entendible.
 -El codigo no tenia comentarios, se agregaron para entender mejor el codigo.
 -Al imprimir el menu la opcion 6 "salir" estaba mal escrita, se corrigio.
+-A las funciones del menu se les agrego return para que fuera mas facil de entender y poder realizar pruebas unitarias.
 
 
 
