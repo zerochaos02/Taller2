@@ -21,12 +21,5 @@ Errores del codigo:
 -Al imprimir el menu la opcion 6 "salir" estaba mal escrita, se corrigio.
 -A las funciones del menu se les agrego return para que fuera mas facil de entender y poder realizar pruebas unitarias.
 
-
-
-
-
-
-
-
-
-
+-----------------------------------------------------------------------------------------------------------------------------
+Tuve problemas con Github con branches y commit histories distintos, que no dejaban hacer merges.
